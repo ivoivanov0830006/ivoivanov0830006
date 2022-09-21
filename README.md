@@ -30,10 +30,10 @@
 ---
 
 ### Hobbies:
+
 - Coding
 - Drone piloting
 - Interior designing
-- Playing Table tennis 
 
 ---
 

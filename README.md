@@ -38,6 +38,7 @@
 ---
 
 ### Milestones:
+![1](https://user-images.githubusercontent.com/108527062/191570509-5bf32ec9-5719-4a6c-8808-9da825b27ca7.png)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ivoivanov0830006&theme=horizon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 

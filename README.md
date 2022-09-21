@@ -38,7 +38,6 @@
 ---
 
 ### Milestones:
-![1](https://user-images.githubusercontent.com/108527062/191570509-5bf32ec9-5719-4a6c-8808-9da825b27ca7.png)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ivoivanov0830006&theme=horizon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
@@ -46,6 +45,10 @@
 
   <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
+
+---
+
+![1](https://user-images.githubusercontent.com/108527062/191570509-5bf32ec9-5719-4a6c-8808-9da825b27ca7.png)
 
 ---
 

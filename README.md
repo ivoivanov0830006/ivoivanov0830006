@@ -43,7 +43,7 @@
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivoivanov0830006&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> -->
 
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoivanov0830006&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
 
 ---

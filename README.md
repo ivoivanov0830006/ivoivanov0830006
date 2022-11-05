@@ -12,10 +12,10 @@
     <a href="https://www.facebook.com/ivo.silvestrov.9519/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ivoivanov083006/">
+  <a href="https://www.linkedin.com/in/ivoivanov083006">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://https://www.instagram.com/ivosilvestrov/">
+ <a href="https://www.instagram.com/ivosilvestrov">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
 </div>

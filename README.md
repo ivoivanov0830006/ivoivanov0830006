@@ -9,8 +9,8 @@
 ### Social Network:
 
 <div id="badges">
-    <a href="https://https:/www.facebook.com/ivo.silvestrov.9519/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://www.facebook.com/ivo.silvestrov.9519/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ivoivanov083006/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

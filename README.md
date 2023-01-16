@@ -1,7 +1,7 @@
 <h1 align="center"><b> Hi there, I'm Ivo </b> </h1>
 
 <p align="center"><i> Down below is a brief description of my personality. </p>
-<p align="center"> If I can help, explain or inspire someone in coding or programing, </p>
+<! <p align="center"> If I can help, explain or inspire someone in coding or programing, </p> >
 <p align="center"> it would be my pleasure and will do my best to assist! </i> </p>
 
 ---

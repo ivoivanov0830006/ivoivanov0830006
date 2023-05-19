@@ -35,7 +35,7 @@
 
 ### Certificates
 
-<img src="https://github.com/ivoivanov0830006/______7/blob/main/PBASIC.jpg" width="120" height="200">
+<img src="https://github.com/ivoivanov0830006/______7/blob/main/PBASIC.jpg" width="130" height="200">
 
 ---
 

@@ -35,15 +35,7 @@
 
 ### Certificates
 
-<img src="https://github.com/ivoivanov0830006/______7/blob/main/PBASIC.jpg" width="100" height="200">
-
----
-
-### Hobbies:
-
-- Coding
-- Drone piloting
-- Interior designing
+<img src="https://github.com/ivoivanov0830006/______7/blob/main/PBASIC.jpg" width="120" height="200">
 
 ---
 

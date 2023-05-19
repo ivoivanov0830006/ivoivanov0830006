@@ -31,6 +31,10 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="100" height="80"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HMLT5 Logo" width="100" height="80">
 
+<img src="https://softuni.bg/certificates/certificates/converttoimage/135366?code=42091f97" width="100" height="80">
+
+
+
 ---
 
 ### Hobbies:

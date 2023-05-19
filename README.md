@@ -31,7 +31,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="100" height="80"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HMLT5 Logo" width="100" height="80">
 
-<img src="https://github.com/ivoivanov0830006/______7/blob/main/PBASIC.jpg" width="100" height="80">
+<img src="https://github.com/ivoivanov0830006/______7/blob/main/PBASIC.jpg" width="100" height="200">
 
 
 

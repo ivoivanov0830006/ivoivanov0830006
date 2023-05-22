@@ -1,11 +1,7 @@
 <h1 align="center"><b> Hi there, I'm Ivo </b> </h1>
 
 <p align="center"><i> Down below is a brief description of myself. </p>
-<style> 
-  .image-spacing { 
-    margin-right: 10px; 
-  } 
-</style> 
+  
 ---
 
 ### Social Network:

@@ -35,8 +35,8 @@
 
 ### Certificates
 
+img{margin:10px;}
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonBASICS.jpg" width="200" height="300">
-<pre class="tab">    </pre>
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonFUNDAMENTALS.jpg" width="200" height="300">   
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonADVANCED.jpg" width="200" height="300">  
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonOOP.jpg" width="200" height="300">

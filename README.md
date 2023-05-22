@@ -1,7 +1,11 @@
 <h1 align="center"><b> Hi there, I'm Ivo </b> </h1>
 
 <p align="center"><i> Down below is a brief description of myself. </p>
-
+<style> 
+  .image-spacing { 
+    margin-right: 10px; 
+  } 
+</style> 
 ---
 
 ### Social Network:
@@ -35,11 +39,6 @@
 
 ### Certificates
 
-<style> 
-  .image-spacing { 
-    margin-right: 10px; 
-  } 
-</style> 
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonBASICS.jpg" class="image-spacing" width="200" height="300"/>
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonFUNDAMENTALS.jpg" width="200" height="300"/>   
 <img src="https://github.com/ivoivanov0830006/0.0.Certification/blob/main/CertificatePythonADVANCED.jpg" width="200" height="300"/>

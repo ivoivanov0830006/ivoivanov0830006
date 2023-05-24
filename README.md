@@ -21,7 +21,7 @@
 ---
 
 ### Status:
-- In process of delevoping new skills - currently learning Python, HTML and CSS.
+- In process of delevoping new skills - currently learning Python, JavaScript, HTML and CSS.
 - I'm looking for Python internship.
 - Anyone can feel free to reach me at: ivoivanov083006@gmail.com
 
